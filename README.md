@@ -80,7 +80,7 @@ open index.html
 Or simply double-click index.html.
 ---
 
-## - 🎯 Use Cases
+## 🎯 Use Cases
 
 - Creating strong passwords for online accounts
 
@@ -116,4 +116,5 @@ Or simply double-click index.html.
 
 SHOUVIK CHAND
 GitHub: https://github.com/torship
+
 
